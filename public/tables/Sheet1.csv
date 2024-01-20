@@ -1,0 +1,4 @@
+regNumber,name,webs,onCrawlGrade,redCrawlPoints,yellowCrawlPoints,greenCrawlPoints,country,sector,lastModify
+id1,Eesti Energia,,,3,3,3,Estonia,sector3,
+id2,Bolt Operations OU,,,,,,Spain,sector2,
+id3,Enefit Power,,,,,7,Spain,sector3,
